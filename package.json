@@ -1,0 +1,22 @@
+{
+  "name": "real1editor-3045-portfolio",
+  "version": "1.0.0",
+  "description": "Futuristic holographic portfolio website for Telegram Mini App",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^4.0.0"
+  },
+  "keywords": [
+    "telegram-mini-app",
+    "portfolio",
+    "futuristic",
+    "holographic-ui"
+  ],
+  "author": "Real1Editor",
+  "license": "MIT"
+}
